@@ -1,0 +1,1 @@
+Selenium is an automation tool that we use in our current project. Selenium is open source. Selenium is used to connect browsers through its code. Selenium is powerful which can be used to run many tools such as Maven, JUnit, testNG etc.  

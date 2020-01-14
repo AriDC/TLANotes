@@ -1,0 +1,4 @@
+1. SDLC means Software Development Life Cycle 
+2. SDLC has a defect life cycle 
+3. SDLC is a part of our day to day activity where we run our daily scrum, planning to deploying all projects
+

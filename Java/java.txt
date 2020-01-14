@@ -1,0 +1,7 @@
+1. Java runs on any environment where JVM 
+
+2. Java supports OOP, which are Inheritance, Encapsulation, Polymorphism, and Abstract 
+
+3. Java has local and instant variables and local var has to be declared but instance variables can be not declared 
+
+
